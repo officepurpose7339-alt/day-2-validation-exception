@@ -1,4 +1,4 @@
-package com.employee.EmpDTO;
+package com.employee.EmpDTO.model;
 
 
 import jakarta.persistence.Entity;
